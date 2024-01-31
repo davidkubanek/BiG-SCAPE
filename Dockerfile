@@ -6,7 +6,7 @@ SHELL ["/bin/bash", "-c"]
 WORKDIR /usr/src
 
 # Cloning BiG-SCAPE
-RUN git clone https://github.com/medema-group/BiG-SCAPE.git
+RUN git clone https://github.com/davidkubanek/BiG-SCAPE.git
 
 # Create conda environment
 RUN conda env create -f /usr/src/BiG-SCAPE/bigscape_dependencies.yml
