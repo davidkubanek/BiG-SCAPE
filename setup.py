@@ -28,7 +28,4 @@ setup(
      description='Biosynthetic Genes Similarity Clustering and Prospecting Engine.',
      keywords=['secondary metabolites', 'natural products', 'genome mining'],
      url='https://github.com/davidkubanek/BiG-SCAPE',
-     author='Jorge Navarro',
-     author_email='jorge.c.navarro.munoz@gmail.com',
-     license='GNU Affero v3'
      )
